@@ -12,3 +12,5 @@ https://developers.google.com/machine-learning/guides/rules-of-ml#training-servi
 https://livebook.manning.com/book/zero-to-ai/chapter-1/
 
 https://livebook.manning.com/book/taming-text/foreword/
+
+https://livebook.manning.com/book/natural-language-processing-in-action/about-this-book/
