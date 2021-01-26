@@ -14,3 +14,11 @@ https://livebook.manning.com/book/zero-to-ai/chapter-1/
 https://livebook.manning.com/book/taming-text/foreword/
 
 https://livebook.manning.com/book/natural-language-processing-in-action/about-this-book/
+
+https://2021.aclweb.org/
+Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics
+https://www.aclweb.org/anthology/2020.acl-main.pdf
+https://www.aclweb.org/anthology/P19-1.pdf
+https://www.aclweb.org/anthology/P19-2.pdf
+https://www.aclweb.org/anthology/P19-3.pdf
+https://www.aclweb.org/anthology/P19-4.pdf
