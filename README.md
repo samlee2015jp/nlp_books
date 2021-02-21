@@ -26,3 +26,5 @@ https://www.aclweb.org/anthology/P19-4.pdf
 
 
 http://www.nltk.org/book/
+
+https://www.jianshu.com/p/5d502bf0f9f5
